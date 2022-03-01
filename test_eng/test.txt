@@ -1,0 +1,893 @@
+1	to what cities from ton does america west fly first class
+1	list la
+1	list la
+1	what cities does northwest fly out of
+1	list the cities from which northwest flies
+1	what cities does northwest fly to
+2	what meals are served on american flight 811 from tampa to milwaukee
+2	what meals are served on american flight 665 673 from milwaukee to seattle
+2	what meals are available on dl 468 which al arrives in san francisco at 950 am
+2	what meals are there on flight 382 from milwaukee to washington dc on tuesday morning
+2	are meals ever served on tower air
+2	are snacks served on tower air
+3	i would like to find a flight from charlotte to las vegas that makes a stop in st. louis
+3	on april first i need a flight going from phoenix to san diego
+3	i would like a flight traveling one way from phoenix to san diego on april first
+3	i would like a flight from orlando to salt lake city for april first on delta airlines
+3	i need a flight from toronto to newark one way leaving wednesday evening or thursday morning
+3	monday morning i would like to fly from columbus to indianapolis
+3	on wednesday april sixth i would like to fly from long beach to columbus after 3 pm
+3	after 12 pm on wednesday april sixth i would like to fly from long beach to columbus
+3	are there any flights from long beach to columbus on wednesday april sixth
+3	find a flight from memphis to tacoma dinner
+3	on next wednesday flight from kansas city to chicago should arrive in chicago around 7 pm return flight on thursday
+3	flight on american from miami to chicago arrive in chicago about 5 pm
+3	find flights arriving new york city next saturday
+3	find nonstop flights from salt lake city to new york on saturday april ninth
+3	show flights from burbank to milwaukee for today
+3	show flights tomorrow evening from milwaukee to st. louis
+3	show flights saturday evening from st. louis to burbank
+3	show flights from burbank to st. louis on monday
+3	show flights from burbank to milwaukee on monday
+3	show flights tuesday evening from milwaukee to st. louis
+3	show flights wednesday evening from st. louis to burbank
+3	which flights travel from kansas city to los angeles
+3	what flights travel from las vegas to los angeles
+3	which flights travel from kansas city to los angeles on april ninth
+3	which flights travel from las vegas to los angeles california and arrive on april ninth between 4 and 5 pm
+3	which flights on us air go from orlando to cleveland
+3	which flights travel from cleveland to indianapolis on april fifth
+3	which flights travel from indianapolis to san diego on april fifth
+3	which flights go from cleveland to indianapolis on april fifth
+3	which flights travel from nashville to tacoma
+3	which flights travel from tacoma to san jose
+3	what are the flights from tacoma to san jose
+3	what are the flights from tacoma to san jose
+3	i need a flight that goes from ton to orlando
+3	are there any flights from ton to orlando connecting in new york
+3	are there any flights from ton to orlando connecting in columbus
+3	does this flight serve dinner
+3	i need a flight from charlotte to miami
+3	i need a nonstop flight from miami to toronto
+3	i need a nonstop flight from toronto to st. louis
+3	i need a flight from toronto to st. louis
+3	i need a flight from st. louis to charlotte
+3	i need a flight on united airlines from la guardia to san jose
+3	i need a flight from tampa to milwaukee
+3	i need a flight from milwaukee to seattle
+3	i need a flight from memphis to las vegas
+3	i need a flight from las vegas to ontario
+3	i need a flight from ontario to memphis
+3	which flights go from milwaukee to tampa and stop in nashville
+3	which flights leave newark after noon next saturday and arrive in los angeles
+3	which flights leave detroit and arrive at st. petersburg around 9 am
+3	which flights on northwest airline leave detroit and arrive at st. petersburg
+3	which flights leave chicago next tuesday and arrive in detroit around 6 pm
+3	show me round trip flights from chicago to detroit leaving next tuesday and returning the day after
+3	which round trip flights leave chicago next tuesday around 6 pm and arrive in detroit
+3	which round trip flights leave chicago next tuesday and arrive in detroit around 6 pm
+3	which flights leave on monday from montreal and arrive in chicago in the morning
+3	which flights leave chicago on april twelfth and arrive in indianapolis in the morning
+3	which flights leave on wednesday april thirteenth from indianapolis and arrive in montreal in the morning
+3	which flights leave april twelfth from indianapolis and arrive in montreal around 10 pm
+3	i 'd like to go from long beach to st. louis and i 'd like to stop in dallas i 'd also like to have lunch during my flight
+3	next wednesday i would like to leave kansas city on a trip to chicago which arrives in chicago around 7 pm
+3	i would like to return from chicago around 7 pm to kansas city
+3	i would like to leave this afternoon on an american flight from cincinnati to burbank
+3	on sunday evening i would like to leave montreal quebec on a flight to san diego california
+3	what are the flights on sunday from montreal quebec to san diego california
+3	on tuesday are the flights from san diego california to indianapolis indiana i would like the flight to be in the afternoon
+3	on thursday morning i would like a nonstop flight from indianapolis to toronto
+3	on friday morning i would like to fly from toronto to montreal
+3	i would like an early morning flight today from los angeles to charlotte
+3	on wednesday night i would like a flight from charlotte to newark
+3	on friday night i would like a flight from newark to los angeles
+3	find a flight from tampa to montreal by way of new york
+3	please find a flight from miami florida to las vegas nevada arriving before 4 o'clock pm
+3	please find a flight from las vegas to michigan
+3	please find a flight from detroit michigan to st. petersburg arriving before 10 pm
+3	please find a flight from st. petersburg to miami on thursday
+3	please find a flight from san diego to toronto on alaska airlines
+3	please find the flights from columbus to houston with a layover in nashville tomorrow
+3	please give me the flights from nashville to houston nonstop with dinner served
+3	please find flights available from kansas city to newark
+3	please find a flight that goes from kansas city to newark to orlando back to kansas city
+3	please find a flight from kansas city to newark
+3	please find a flight from newark to orlando
+3	please find a flight from orlando to kansas city
+3	i would like to fly from columbus to phoenix through cincinnati in the afternoon
+3	does the airport at burbank have a flight that comes in from kansas city
+3	which flights arrive in burbank from kansas city on saturdays in the afternoon
+3	which flights arrive in burbank from las vegas on saturday april twenty third in the afternoon
+3	which flights are available from orlando to cleveland that arrive around 10 pm
+3	what flights are available from indianapolis to san diego on april twenty first in the late afternoon
+3	what flights leave cleveland going to indianapolis on april twenty first in the morning
+3	which flights are available on april twenty first in the morning from nashville to tacoma
+3	which flights are available from tacoma to san jose in the morning on april twenty second
+3	which flights are available from san jose to nashville leaving in the morning on april twenty three
+3	what is the latest flight from baltimore to oakland that serves dinner
+3	what is the earliest flight between baltimore and oakland that serves breakfast
+3	what is the latest breakfast flight from dallas to tampa
+3	show me all lufthansa flights from seattle to ton with stopovers in minneapolis
+3	show me all flights from seattle to ton with stopovers in minneapolis
+3	list philadelphia to san francisco flights with stopovers in dallas
+3	show me the connecting flights between ton and denver and the types of aircraft used
+3	show me all the morning flights from philadelphia to fort worth
+3	show me all the flights from kansas city to st. paul
+3	show me northwest flight 608 from kansas city to st. paul
+3	show me all the flights from indianapolis to charlotte on monday
+3	show me all the flights from charlotte to minneapolis that leave at 2 pm or later on monday
+3	show me all the flights from charlotte to minneapolis on tuesday morning
+3	show me the direct flights from charlotte to minneapolis on tuesday morning
+3	show me flight us 1500 on monday from charlotte to minneapolis please
+3	show me all the flights from minneapolis to indianapolis on tuesday that leave after 2 pm
+3	show me the flights from minneapolis to indiana
+3	show me the flights in from minneapolis to indianapolis on tuesday afternoon
+3	show me flight us 1207 from indianapolis to charlotte on monday and flight us 1500 from charlotte to minneapolis on monday and flight twa 639 from minneapolis to indianapolis
+3	show me all the flights from las vegas to new york city
+3	show me all the flights on america west and twa from las vegas to jfk on a friday
+3	what are the flights from tacoma to miami that leave after 6 pm tomorrow
+3	i 'd like to fly from san diego to houston on june tenth
+3	is there an american airlines flight from houston to newark on june tenth after 6 pm
+3	is there an american airlines flight from houston to newark on june tenth after 3 pm
+3	i need to get from cincinnati to denver on june sixth by 6 pm
+3	i need to fly from denver to westchester county on june seventh after 3 pm
+3	i need to take a united airlines flight on june eighth from westchester county to cincinnati after 3 pm
+3	what united airlines flights on june eighth go from westchester county to cincinnati
+3	on june eighth what flights go from westchester county to cincinnati
+3	does us air fly from cincinnati to denver on june sixth
+3	list the flights from cincinnati to denver on june sixth
+3	list the flights from denver to westchester county on june seventh
+3	list the flights from westchester county to cincinnati on june eighth
+3	list the flights from cincinnati to westchester county on june sixth
+3	list the flights from westchester county to denver on june seventh
+3	list the flights from denver to cincinnati on june eighth
+3	list the flights from denver to cincinnati on june sixth after 4 pm
+3	list the flights from cincinnati to westchester county on june seventh
+3	list the flights from westchester county to cincinnati on june seventh leaving after 5 pm
+3	what flights arrive at love field on june sixth
+3	list the flights from montreal to philly before 9 am
+3	list the flights from cleveland to memphis
+3	list the flights from memphis to cleveland
+3	list the flights from denver to baltimore arriving on july first
+3	list the flights from dallas to baltimore arriving july first
+3	list the flights from pittsburgh to baltimore arriving on july first
+3	list the flights on canadian airlines international
+3	show me the flights on american airlines which fly from st. petersburg to ontario canada with a stopover in st. louis
+3	show me the flights on american airlines which go from st. petersburg to ontario california by way of st. louis
+3	show me the flights from houston to orlando
+3	show me the flights from orlando to houston
+3	show me the flights from detroit to las vegas
+3	show me the delta flights which serve a snack to coach passengers
+3	show me the delta flights from tampa to san francisco
+3	show me delta flight 486
+3	list the tower air flights on mondays
+3	list all tower air flights with meals
+3	what flights depart from baltimore
+3	what flights depart from baltimore and arrive at san francisco on a friday
+3	what flights leave from cincinnati in the morning and arrive in tampa
+3	which flights depart from tampa and arrive in cincinnati in the evening
+3	which flights depart from tampa in the early evening and arrive in cincinnati
+3	which flights depart from philadelphia and arrive in atlanta
+3	which flights depart from a atlanta and arrive in toronto
+3	which flights depart from toronto and arrive in washington dc
+3	which flights depart from new york and arrive in los angeles after 10 am
+3	what flights are there between washington dc and columbus ohio
+3	what are the flights between washington dc and columbus ohio
+3	list all us air flights arriving in charlotte on saturday at 1 pm
+3	list all flights from memphis to miami
+3	list all flights from cleveland to kansas city on monday
+3	list all flights from kansas city to cleveland
+3	list all flights from cleveland to nashville
+3	list all flights from nashville to cleveland on sunday
+3	which flights are leaving from kansas city to atlanta early monday morning
+3	which flights are leaving atlanta and arriving in st. louis close to 230 pm on tuesday
+3	please list flights from st. louis to st. paul which depart after 10 am thursday morning
+3	list flights from st. paul to kansas city friday in the evening with a meal included
+3	list early morning flights from cincinnati to tampa
+3	list early evening flights from tampa to cincinnati
+3	list evening flights from tampa to cincinnati
+3	list flights from philadelphia to atlanta friday am
+3	list flights from atlanta to toronto friday afternoon
+3	list flights from toronto to washington dc saturday am
+3	list flights from washington dc to philadelphia saturday pm
+3	list direct flights from new york city to los angeles after 10 am
+3	list american airlines flights from houston to milwaukee departing friday pm
+3	list flights from houston to milwaukee friday pm
+3	list american airlines flights from milwaukee to san jose wednesday
+3	list american airlines flights from san jose to dallas friday afternoon
+3	list flights from dallas to houston arriving sunday afternoon
+3	list flights from seattle to salt lake city on delta l10
+3	list flights from seattle to salt lake city on delta be1
+3	list flights from ton to pittsburgh daily
+3	list flights from pittsburgh to newark daily
+3	list flights from newark to ton daily
+3	list us air flights leaving saturday from charlotte airport at 1 pm
+3	list us air flights leaving saturday from charlotte airport around 1 pm
+3	list flights from memphis to miami wednesday evening
+3	list flights from miami to indianapolis sunday
+3	list flights from ontario california to orlando florida
+3	list flights from ontario california to salt lake city utah
+3	list flights from ontario california to salt lake city utah monday
+3	list flights from salt lake city utah to phoenix arizona monday
+3	list flights from salt lake city to phoenix arizona tuesday
+3	list flights from phoenix arizona to ontario california wednesday
+3	kansas city to atlanta monday morning flights
+3	monday morning flights from atlanta to kansas city
+3	kansas city to atlanta monday morning flights
+3	atlanta to st. louis tuesday before 230 pm flights
+3	st. louis to st. paul thursday after 10 am
+3	st. paul to kansas city friday night
+3	cleveland to kansas city arrive monday before 3 pm
+3	kansas city to cleveland flight arrive wednesday before 5 pm
+3	cleveland to nashville flight friday morning
+3	nashville to cleveland sunday before 9
+3	first class flights pittsburgh to newark monday morning
+3	flights newark to los angeles wednesday morning
+3	los angeles to minneapolis thursday afternoon
+3	minneapolis to pittsburgh flight
+3	minneapolis to pittsburgh first class flight
+3	i would like flights leaving from milwaukee to orlando
+3	i would like flights from ontario to tacoma
+3	i would like flights from minneapolis to san diego
+3	i would like flights from salt lake city to cincinnati
+3	i would like to see flights from cincinnati to salt lake city
+3	i 'd like flights from new york to miami
+3	i would like flights from miami to new york
+3	i would like a flight leaving san francisco for san diego
+3	i would like flights from san diego to las vegas
+3	i would like a flight from san diego to las vegas
+3	i would like flights from las vegas to san francisco
+3	i would like a flight from toronto to detroit
+3	i would like a flight from detroit to st. louis
+3	i would like a flight from toronto to st. louis
+3	i would like flights from san francisco to long beach
+3	i would like flights leaving san francisco to san diego
+3	i would like a flight from san francisco to st. petersburg
+3	show me a one way flight from milwaukee to orlando leaving wednesday afternoon after 6 pm
+3	show me one way flights from milwaukee to orlando on wednesday
+3	show me flights from columbus to chicago first class that leave before 10 am
+3	show me the cheapest round trip between st. petersburg and detroit that arrives before 7 pm
+3	show me nonstop flights from kansas city to phoenix
+3	show me the cheapest first class round trip from new york to miami
+3	now show me all the round trips from new york to miami
+3	show me the cheapest one way flight from san francisco to houston
+3	now show me the cheapest one way flight from houston to ton
+3	now show me one way flights from houston to ton
+3	show me flights between detroit and st. louis on delta northwest us air and united airlines
+3	show me flights from montreal to orlando and long beach
+3	show me flights from montreal to orlando
+3	i need a flight on friday afternoon in june from new york to cleveland
+3	i need a flight from new york to los angeles on saturday evening on us air
+3	i 'd like a red eye flight from new york to los angeles on saturday evening on us air
+3	i 'd like a flight from new york to los angeles on saturday morning on us air
+3	i need a flight from san francisco to milwaukee on monday morning
+3	i need a flight from milwaukee to washington dc on monday night
+3	how about flights from milwaukee to washington dc on tuesday mornings
+3	can i get a flight on tuesday night from washington dc to oakland
+3	how about from dc to oakland on wednesday morning
+3	what 's the cheapest flight from columbus to st. louis round trip on twa
+3	what 's the cheapest round trip flight on twa from columbus to st. paul
+3	i want to fly from milwaukee to los angeles
+3	can i get the shortest flight from milwaukee to orlando
+3	what is the shortest flight from milwaukee to long beach
+3	what is the shortest flight from milwaukee to st. petersburg
+3	what is the shortest flight from milwaukee to long beach
+3	what is the shortest flight from milwaukee to san diego
+3	can i get a flight today from san francisco to detroit michigan
+3	what 's the cheapest flight from san francisco to detroit today
+3	i want to fly from san francisco to milwaukee and from milwaukee to denver
+3	what 's the cheapest flight from san francisco to milwaukee
+3	what 's the cheapest flight tomorrow from milwaukee to denver
+3	what 's the cheapest flight from san francisco to denver
+3	what flights leave from cleveland and go to dallas
+3	show me all nonstop flights from st. petersburg to charlotte
+3	show me flights between toronto and san diego
+3	show me the flights between oakland and salt lake city
+3	what is the earliest daily flight between oakland and salt lake city
+3	what is the latest daily flight between oakland and salt lake city
+3	show me the flights between los angeles and dallas
+3	what are the flights between dallas and phoenix
+3	are there any flights between dallas and phoenix using a dc10 aircraft
+3	show me the flights between milwaukee and indiana
+3	what are the flights between milwaukee and pittsburgh
+3	show me the flights between pittsburgh and washington dc
+3	what are the flights between dca and milwaukee
+3	find a flight between st. petersburg and charlotte the flight should leave in the afternoon and arrive as soon after 5 pm as possible it should be a nonstop flight
+3	list a flight on delta airlines from toronto to san diego
+3	list a flight on american airlines from toronto to san diego
+3	list a flight from toronto to san diego
+3	list flights from oakland to salt lake city leaving after 1700 wednesday
+3	list flights from oakland to salt lake city leaving after midnight thursday
+3	list flights between phoenix and las vegas
+3	list flights from las vegas to denver
+3	list flights from milwaukee to washington dc before 1200
+3	list flights from washington dc to pittsburgh leaving after 1800
+3	list flights from washington dc to pittsburgh
+3	list flights between pittsburgh and milwaukee
+3	i 'd like a flight to san diego from washington dc
+3	i 'd like to fly from cleveland to dallas
+3	i want to fly from washington dc to phoenix arizona
+3	i need a flight from phoenix to atlanta
+3	i would like to fly from atlanta to san diego
+3	i would like to fly from san diego to seattle
+3	i would like to fly from orlando to kansas city
+3	i need a flight from kansas city to minneapolis
+3	i need a flight from san diego to washington dc
+3	i need a flight from washington dc to san diego
+3	i want a flight from montreal to washington dc
+3	i want a flight from nashville to seattle that arrives no later than 3 pm
+3	i want a flight from memphis to seattle that arrives no later than 3 pm
+3	i need a flight from indianapolis to seattle arriving in seattle at 1205 pm
+3	i want a flight round trip from memphis to seattle
+3	i want to fly from nashville to seattle and i want the cheapest fare round trip
+3	i want to fly from memphis to seattle round trip with the cheapest fare
+3	i want to fly from indianapolis to seattle round trip with the cheapest fare
+3	please list flights from orlando to philadelphia
+3	please list flights from san francisco to charlotte
+3	please list flights from milwaukee to philadelphia
+3	please list flights from philadelphia to san francisco
+3	please list flights from san francisco to milwaukee
+3	list flights from houston to denver
+3	list flights from houston to phoenix
+3	list flights from phoenix to houston
+3	list flights from newark to houston
+3	show flights from denver to houston
+3	show flights from st. petersburg to charlotte
+3	show flights from orlando to kansas city
+3	show flights from kansas city to minneapolis
+3	show flights from kansas city to orlando
+3	show flights from minneapolis to kansas city
+3	show flights from kansas city to orlando
+3	list flights from washington dc to ton
+3	list flights from washington dc to montreal
+3	list flights from washington dc to montreal
+3	list flights from washington dc to toronto
+3	list flights from toronto to washington dc
+3	list flights from oakland to salt lake city
+3	what flights go from dallas to phoenix
+3	what flights go from phoenix to salt lake city
+3	i need an early flight from milwaukee to denver
+3	  what flights go from denver to st. louis on tuesday morning 
+3	  i need to fly from st. louis to milwaukee on wednesday afternoon 
+3	  flights from washington to seattle 
+3	  flights from atlanta to seattle 
+3	  flights from san diego to seattle 
+3	  i would like flight information from phoenix to denver 
+3	  could i have flight information on flights from salt lake city to phoenix please 
+3	  could i have flight information on flights from pittsburgh to phoenix please 
+3	  i would like information on flights leaving from washington dc to denver 
+3	  i need information on flights from washington to ton that leave on a saturday 
+3	  i need the flights from washington to montreal on a saturday 
+3	  i want to go from ton to washington on a saturday 
+3	  i need a flight from cleveland to dallas that leaves before noon see if too much information 
+3	  list saturday flights from washington to ton 
+3	  list saturday flights from ton to washington 
+3	  get flights from milwaukee to dtw 
+3	  list flights from milwaukee to detroit 
+3	  get flights from detroit to toronto 
+3	  get flights from toronto to milwaukee 
+3	  get last flight from oakland to salt lake city on wednesday or first flight from oakland to salt lake city on thursday 
+3	  get first flight from oakland to salt lake city on thursday 
+3	  get last flight from oakland to salt lake city on wednesday 
+3	  list last wednesday flight from oakland to salt lake city 
+3	  get flight from toronto to san diego stopping at dtw 
+3	  get flights between st. petersburg and charlotte 
+3	  i need a flight from milwaukee to indianapolis leaving monday before 9 am 
+3	  i need a flight departing from milwaukee to indianapolis leaving monday before 8 am 
+3	  i need flight information for a flight departing from indianapolis to cleveland departing tuesday at noon 
+3	  i need flight information for a flight departing from cleveland to milwaukee wednesday after 6 pm 
+3	  i need flight information for flights departing from cleveland going back to milwaukee wednesday after 5 pm 
+3	  i need flight information for flights departing from cleveland to milwaukee on wednesday after 5 pm 
+3	  i need flight information for flights departing from cleveland to milwaukee on wednesday after 5 pm 
+3	  i need a flight from denver to salt lake city on monday 
+3	  i need a flight from salt lake city to phoenix departing wednesday after 5 pm 
+3	  i need a flight from oakland to salt lake city on wednesday departing after 6 pm 
+3	  list flights from las vegas to phoenix 
+3	  list wednesday night flights from oakland to salt lake city 
+3	  list flights from oakland to salt lake city before 6 am thursday morning 
+3	  please list afternoon flights between st. petersburg and charlotte 
+3	  what are the flights from cleveland to dallas 
+3	  please list only the flights from cleveland to dallas that leave before noon 
+3	  i need information on flights from indianapolis to seattle 
+3	  i need a flight from memphis to seattle 
+3	  i need flight information from milwaukee to tampa 
+3	  i need a daily flight from st. louis to milwaukee 
+3	  i need flights departing from oakland and arriving salt lake city 
+3	  i need information on flights from toronto to san diego 
+3	  i need information on flights from toronto to san diego 
+3	  i want a flight from toronto to san diego 
+3	  i need information on flights between st. petersburg and charlotte 
+3	  which flights go from new york to miami and back 
+3	  show me flights from milwaukee to orlando one way 
+3	  show me flights from milwaukee to orlando 
+3	  please show me first class flights from indianapolis to memphis one way leaving before 10 am 
+3	  now show me all round trip flights from burbank to seattle that arrive before 7 pm in seattle 
+3	  round trip flights from orlando to montreal please 
+3	  show me all delta airlines flights from montreal to orlando 
+3	  show me all flights from orlando to montreal please 
+3	  please list all flights from new york to miami any any type of class 
+3	  show me a return flight from miami to jfk please 
+3	  show me one way flights from milwaukee to orlando after 6 pm on wednesday 
+3	  show me the flights from indianapolis to memphis 
+3	  show me round trip flights from burbank to seattle 
+3	  show me round trip flights from orlando to montreal 
+3	  show me nonstop flights from montreal to orlando 
+3	  show me round trips between montreal and orlando 
+3	  show me round trip flights from montreal to orlando 
+3	  show me the cheapest one way flights from montreal to orlando 
+3	  show me the cheapest one way flights from orlando to montreal 
+3	  show me the cheapest economy flights from miami to new york 
+3	  kansas city to las vegas economy 
+3	  kansas city to las vegas economy 
+3	  las vegas to baltimore economy 
+3	  las vegas to baltimore economy 
+3	  baltimore to kansas city economy 
+3	  columbus to chicago one way before 10 am 
+3	  st. petersburg to detroit 
+3	  from milwaukee to orlando one way after 5 pm wednesday 
+3	  and from milwaukee to atlanta before 10 am daily 
+3	  show me all flights from san jose to phoenix 
+3	  show me all flights from san jose to phoenix 
+3	  show me flights from phoenix to fort worth 
+3	  show me flights from fort worth to san jose 
+3	  show me first class flights from new york to miami round trip 
+3	  show me first class flights from new york to miami round trip 
+3	  show me all round trip flights from new york to miami nonstop 
+3	  show me all round trip flights from miami to new york nonstop 
+3	  show me one way flights from indianapolis to memphis before 10 am on any day 
+3	  show me round trip flights from burbank to tacoma 
+3	  show me nonstop flights from st. petersburg to toronto 
+3	  show me nonstop flights from toronto to st. petersburg 
+3	  show me the nonstop flights from toronto to st. petersburg 
+3	  show me weekday flights from milwaukee to orlando one way 
+3	  show me weekday flights from milwaukee to orlando one way 
+3	  list flights from chicago to san diego 
+3	  list flights from chicago to san diego 
+3	  list flights from kansas city to denver 
+3	  list flights from denver to phoenix 
+3	  list flights from phoenix to las vegas 
+3	  list flights from las vegas to san diego 
+3	  list flights from chicago to kansas city in the morning 
+3	  list flights from houston to san jose 
+3	  list flights from houston to milwaukee 
+3	  list flights from milwaukee to san jose on wednesday 
+3	  list flights from san jose to dallas on friday 
+3	  list flights from dallas to houston 
+3	  list flights from new york to la 
+3	  list flights from la guardia to burbank 
+3	  list flights from la to orlando 
+3	  list flights from ontario california to orlando 
+3	  list flights from ontario california to orlando 
+3	  list flights from indianapolis to memphis with fares on monday 
+3	  list flights from indianapolis to memphis on monday 
+3	  list flights from memphis to miami on wednesday 
+3	  list flights from miami to indianapolis on sunday 
+3	  list flights from charlotte on saturday afternoon 
+3	  list flights from orlando to tacoma on saturday of fare basis code of q 
+3	  list flights from pittsburgh to newark on monday morning 
+3	  list flights from minneapolis to pittsburgh on friday 
+3	  list flights before 9 am from cincinnati to tampa 
+3	  list flights from cincinnati to tampa before noon 
+3	  list flights from tampa to cincinnati after 3 pm 
+3	  list delta flights from seattle to salt lake city 
+3	  list delta flights from seattle to salt lake city with aircraft type 
+3	  list flights from baltimore to san francisco on friday 
+3	  give me the flights from los angeles to pittsburgh on tuesday 
+3	  give me the flights from pittsburgh to los angeles thursday evening 
+3	  give me the round trip flights from cleveland to miami next wednesday 
+3	  give me the flights and fares for a trip to cleveland from miami on wednesday 
+3	  give me the flights from milwaukee to phoenix on saturday or sunday on american airlines 
+3	  give me the flights from phoenix to milwaukee on wednesday evening 
+3	  give me the flights from phoenix to milwaukee on wednesday on american airlines 
+3	  give me the flights from phoenix to milwaukee on american airlines 
+3	  give me the flights from phoenix to milwaukee 
+3	  give me the meal flights departing early saturday morning from chicago to seattle nonstop 
+3	  give me the flights from chicago to seattle saturday morning that have meals 
+3	  give me flights from seattle to chicago that have meals on continental 
+3	  give me the flights from seattle to chicago that have meals on continental saturday morning 
+3	  give me the flights from chicago to seattle on continental that have meals early saturday morning 
+3	  give me a combination of continental flights from chicago to seattle that have meals early saturday morning 
+3	  give me the saturday morning flights with meals from chicago to minneapolis 
+3	  give me the saturday morning flights on continental that have meals from chicago to minneapolis 
+3	  give me the saturday morning flights from chicago to st. paul on continental that have meals 
+3	  give me the flights from new york to las vegas nonstop 
+3	  give me the flights from memphis to las vegas nonstop 
+3	  give me the cheapest round trip flights from indianapolis to orlando around december twenty fifth 
+3	  i need a friday flight from newark to tampa 
+3	  i need a sunday flight from tampa to charlotte 
+3	  give me a flight from charlotte to baltimore on tuesday morning 
+3	  can i have a morning flight from baltimore to newark please 
+3	  saturday flight on american airlines from milwaukee to phoenix 
+3	  newark to tampa on friday 
+3	  tampa to charlotte sunday morning 
+3	  charlotte to baltimore on tuesday 
+3	  baltimore to newark wednesday morning 
+3	  dallas to houston after 1201 am 
+3	  houston to dallas before midnight 
+3	  indianapolis to orlando december twenty seventh 
+3	  cleveland to miami on wednesday arriving before 4 pm 
+3	  miami to cleveland sunday afternoon 
+3	  new york city to las vegas and memphis to las vegas on sunday 
+3	  new york city to las vegas and memphis to las vegas on sunday 
+3	  new york to las vegas sunday afternoon 
+3	  memphis to las vegas sunday afternoon 
+3	  new york to las vegas on sunday afternoon 
+3	  chicago to seattle saturday morning 
+3	  chicago to las vegas saturday morning 
+3	  los angeles to pittsburgh afternoon tuesday 
+3	  los angeles to pittsburgh afternoon on monday 
+3	  pittsburgh to los angeles thursday evening 
+3	  milwaukee to phoenix on saturday 
+3	  phoenix to milwaukee on sunday 
+3	  phoenix to milwaukee on wednesday 
+3	  a flight from baltimore to san francisco arriving between 5 and 8 pm 
+3	  how many northwest flights leave st. paul 
+3	  how many northwest flights leave washington dc 
+3	  how many flights does northwest have leaving dulles 
+3	  i would like a connecting flight from dallas to san francisco leaving after 4 o'clock 
+3	  please list all the flights from dallas to san francisco 
+3	  tell me again the morning flights on american airlines from philadelphia to dallas 
+3	  tell me the flights that leave philadelphia and go to dallas 
+3	  show me the first class and coach flights between jfk and orlando 
+3	  show me the first class and coach flights from kennedy airport to miami 
+3	  show me the first class and coach flights from jfk to miami 
+3	  show delta airlines flights from jfk to miami 
+3	  show delta airlines from ton to salt lake 
+3	  show delta airlines flights from ton to salt lake 
+3	  show delta airlines flights from ton to salt lake city 
+3	  what is the earliest arriving flight from ton to washington dc 
+3	  what is the earliest arriving flight between ton and washington dc 
+3	  what 's the earliest arriving flight between ton and washington dc 
+3	  what is the earliest arriving flight from houston to orlando 
+3	  what is the earliest arriving flight from houston to orlando 
+3	  show me the flights between houston and orlando 
+3	  show me the flights between houston and orlando 
+3	  show me the flights from houston to orlando 
+3	  list all flights leaving denver between 8 pm and 9 pm 
+3	  list all flights arriving in denver between 8 and 9 pm 
+3	  list all of the daily flights arriving in denver between 8 and 9 pm 
+3	  list all of the daily flights arriving in denver from 8 to 9 pm 
+3	  show me all of the daily flights arriving in denver between 8 pm and 9 pm 
+3	  list all flights arriving or leaving denver between 8 and 9 pm 
+3	  list all flights arriving in denver between 8 and 9 pm 
+3	  list all flights on all types of aircraft arriving in denver between 8 and 9 pm 
+3	  please list all flights from nashville to memphis on monday morning 
+3	  please list the flights from nashville to memphis on monday morning 
+3	  please list the flights from memphis to new york city on a monday night 
+3	  show me the morning flights from memphis to new york city 
+3	  give me the flights from new york city to nashville leaving after 5 pm on wednesday 
+3	  what are the nonstop flights from cincinnati to charlotte leaving after noon and arriving before 7 pm 
+3	  how many flights does alaska airlines have to burbank 
+3	  list the alaska airline flights from burbank to anywhere 
+3	  list the alaska airline flights from burbank 
+3	  list the alaska airlines flights arriving in burbank 
+3	  list the alaska airlines flights a departing from burbank 
+3	  list all alaska airlines flights 
+3	  list all flights departing from seattle 
+3	  list the flights from indianapolis to memphis that leave before noon 
+3	  i want a flight from los angeles to charlotte early in the morning 
+3	  i would like a morning flight from charlotte to newark 
+3	  i 'd like a morning flight from newark to los angeles 
+3	  i 'd like an evening flight from newark to los angeles 
+3	  i would like a flight that leaves on sunday from montreal quebec to san diego california 
+3	  i would like a flight on tuesday which leaves from san diego to indianapolis indiana and that leaves in the afternoon 
+3	  i would like to leave thursday morning from indianapolis to toronto 
+3	  i would like a flight on friday morning from toronto to montreal 
+3	  i would like a flight from cincinnati to burbank on american 
+3	  i need a flight leaving kansas city to chicago leaving next wednesday and returning the following day 
+3	  what flights go from long beach to st. louis 
+3	  what are the flights from memphis to las vegas 
+3	  what are the flights from las vegas to ontario 
+3	  what are the flights from ontario to memphis 
+3	  what are the flights from tampa to milwaukee 
+3	  what are the flights from milwaukee to seattle 
+3	  what are the flights from la guardia to san jose on united 
+3	  what are the flights on mondays that travel from charlotte north carolina to phoenix arizona 
+3	  what are the flights from phoenix arizona to st. paul minnesota on tuesday 
+3	  what are the flights on thursday leaving from st. paul minnesota to st. louis 
+3	  what are the flights from st. louis to charlotte north carolina leaving on friday 
+3	  what are the flights from ton to orlando that stop in new york 
+3	  i need a morning flight from burbank to milwaukee on next monday 
+3	  how about a flight from milwaukee to st. louis that leaves monday night 
+3	  and a flight from st. louis to burbank that leaves tuesday afternoon 
+3	  how about a flight leaving tuesday night from st. louis to burbank 
+3	  i need a flight from salt lake to newark airport that arrives on saturday before 6 pm 
+3	  i 'd like a flight from cincinnati to newark airport that arrives on saturday before 6 pm 
+3	  i need a flight on american airlines from miami to chicago that arrives around 5 pm 
+3	  i need a flight from memphis to tacoma that goes through los angeles 
+3	  what are the flights between cincinnati and san jose california which leave after 6 pm 
+3	  what are the nonstop flights between san jose and houston texas 
+3	  what are the nonstop flights between houston and memphis 
+3	  what are the flights between memphis and cincinnati on wednesday 
+3	  what are the american flights from newark to nashville 
+3	  the flights from ontario to westchester that stop in chicago 
+3	  please list the flights from los angeles to charlotte 
+3	  please list the flights from charlotte to newark 
+3	  please list the flights from newark to los angeles 
+3	  please list the flights from cincinnati to burbank on american airlines 
+3	  please give me the flights from kansas city to chicago on june sixteenth 
+3	  please give me the flights from chicago to kansas city on june seventeenth 
+3	  please list all the flights from kansas city to chicago on june sixteenth 
+3	  please list all the flights from chicago to kansas city on june seventeenth 
+3	  i 'd like to travel from burbank to milwaukee 
+3	  can you find me a flight from salt lake city to new york city next saturday before arriving before 6 pm 
+3	  can you find me another flight from cincinnati to new york on saturday before 6 pm 
+3	  can you list all of the delta flights from salt lake city to new york next saturday arriving before 6 pm 
+3	  i 'd like to fly from miami to chicago on on american airlines arriving around 5 pm 
+3	  i 'd like to travel from kansas city to chicago next wednesday 
+3	  i 'd like a round trip flight from kansas city to chicago on wednesday may twenty sixth arriving at 7 pm 
+3	  yes i 'd like to find a flight from memphis to tacoma stopping in los angeles 
+3	  find flight from san diego to phoenix on monday am 
+3	  find flight from phoenix to detroit on monday 
+3	  find flight from detroit to san diego on tuesday 
+3	  find flight from cincinnati to san jose on monday 
+3	  find flight from san jose to houston on wednesday 
+3	  find flight from houston to memphis on friday 
+3	  find flight from memphis to cincinnati on sunday 
+3	  find american flight from newark to nashville around 630 pm 
+3	  please find a flight round trip from los angeles to tacoma washington with a stopover in san francisco not exceeding the price of 300 dollars for june tenth 1993 
+3	  are there any flights on june tenth from burbank to tacoma 
+3	  please find a flight from ontario to westchester that makes a stop in chicago on may seventeenth one way with dinner 
+3	  like to book a flight from burbank to milwaukee 
+3	  show me all the flights from burbank to milwaukee 
+3	  find me all the flights from milwaukee to st. louis 
+3	  now show me all the flights from st. louis to burbank 
+3	  find me all the round trip flights from burbank to milwaukee stopping in st. louis 
+3	  i 'd like to book two flights to westchester county 
+3	  i want to book a flight from salt lake city to westchester county 
+3	  i 'd like to book a flight from cincinnati to new york city on united airlines for next saturday 
+3	  please find all the flights from cincinnati to any airport in the new york city area that arrive next saturday before 6 pm 
+3	  find me a flight from cincinnati to any airport in the new york city area 
+3	  i 'd like to fly from miami to chicago on american airlines 
+3	  i would like to book a round trip flight from kansas city to chicago 
+3	  find me a flight that flies from memphis to tacoma 
+4	  on april first i need a ticket from tacoma to san jose departing before 7 am 
+4	  what is the most expensive one way fare between detroit and westchester county 
+4	  show me the cheapest round trip coach fare from las vegas to detroit 
+4	  show me the cheapest round trip coach fare on twa from las vegas to detroit 
+4	  what are the fares for all flights between washington and columbus 
+4	  what is the first class round trip airfare from india indianapolis to memphis 
+4	  list first class airfare round trip from indianapolis to memphis 
+4	  what is the fare for a first class round trip ticket from detroit to st. petersburg 
+4	  what is the airfare for a round trip first class ticket from detroit to st. petersburg 
+4	  show me the cheapest round trip fares from houston to ton 
+4	  show me the cheapest round trip fares from san francisco to houston 
+4	  show me the cheapest round trip fare from san francisco to houston on february twenty eighth 1994 
+4	  show me the cheapest one way fare from san francisco to houston on february twenty eighth 1994 
+4	  show me round trip fares from toronto to detroit on delta northwest us air and united airlines 
+4	  how much does it cost to fly on twa from columbus to milwaukee 
+4	  how much does it cost to fly from columbus to st. louis round trip on twa 
+4	  what is the lowest fare for a flight from washington dc to ton 
+4	  what is the lowest fare from washington dc to montreal 
+4	  what is the lowest fare from toronto to washington dc 
+4	  list fares from washington dc to montreal 
+4	  list fares from washington dc to toronto that should be good 
+4	  list fares from washington dc to ton 
+4	  i need the fares on flights from washington to toronto on a saturday 
+4	  get fares from washington to ton 
+4	  get saturday fares from washington to ton 
+4	  get fares from washington to montreal 
+4	  get saturday fares from washington to montreal 
+4	  get saturday fares from washington to toronto 
+4	  get the saturday fare from washington to toronto 
+4	  i need a ticket from nashville to seattle 
+4	  i need a ticket from nashville tennessee to seattle 
+4	  i 'd like a one way ticket from milwaukee to orlando either wednesday evening or thursday morning 
+4	  list airfares for first class round trip from detroit to st. petersburg 
+4	  list coach round trip airfare from detroit to st. petersburg 
+4	  give me the fares for round trip flights from cleveland to miami next wednesday 
+4	  give me the fares from miami to cleveland next sunday 
+4	  cheapest round trip fare from or indianapolis to orlando on december twenty fifth 
+4	  cheapest one way fare from indianapolis to orlando on december twenty seventh 
+4	  is there a fare from pittsburgh to cleveland under 200 dollars 
+4	  how much is coach flight from pittsburgh to atlanta 
+4	  cheapest fare from indianapolis to orlando on the twenty seventh of december 
+4	  cheapest fare round trip from indianapolis to orlando on december twenty seventh 
+4	  what are the fares for flights between ton and washington dc 
+4	  what is the least expensive fare from ton to salt lake city 
+4	  what are the lowest fares from washington dc to salt lake city 
+4	  what is the lowest fare from bwi to salt lake city 
+4	  show me the cost of a first class ticket from detroit to las vegas and back 
+4	  list the cheapest fare from charlotte to las vegas 
+5	  what airlines fly between detroit and westchester county 
+5	  what airline flies from ton to san diego 
+5	  which different airlines go from las vegas to new york city 
+5	  what airlines off from love field between 6 and 10 am on june sixth 
+5	  what airlines fly between washington dc and columbus ohio 
+5	  what airlines are departing from baltimore 
+5	  which airlines fly from baltimore to san francisco 
+5	  list airlines flying from seattle to salt lake city 
+5	  what airlines fly from baltimore to san francisco 
+5	  i would like to have the airline that flies toronto detroit and st. louis 
+5	  what is airline wn 
+5	  show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto 
+5	  what airline is us 
+5	  what airline is dl 
+5	  what airline is aa 
+5	  which airlines fly between toronto and san diego 
+5	  what airline is dl 
+5	  which airline is kw 
+5	  what airline is hp 
+5	  what airline is us 
+5	  which airline is us 
+5	  which airline is us 
+5	  which airline is us 
+5	  which airline is us 
+5	  what airline is hp 
+5	  what airline is yx 
+5	  what airline is hp 
+5	  what airline is as 
+5	  what airline is as 
+5	  what airline is as 
+5	  what airline is as as in sam 
+5	  what airline is hp 
+5	  list airlines that fly from seattle to salt lake city 
+5	  what airlines serve denver 
+5	  list the airlines with flights to or from denver 
+5	  what airlines fly into denver 
+5	  which airline is as 
+5	  is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank 
+6	  i would like to know what airports are in los angeles 
+6	  which airport is closest to ontario california 
+6	  list airports in arizona nevada and california please 
+6	  list california nevada arizona airports 
+6	  list the arizona airport 
+6	  list california airports 
+6	  list california airports 
+6	  list airports 
+6	  list airports in new york 
+6	  list airports in new york 
+6	  list airports in la 
+6	  list airports 
+6	  list airports in la 
+6	  list airports in la 
+6	  list the airports in la 
+6	  show me the airports serviced by tower air 
+6	  tell me all the airports near westchester county 
+6	  tell me all the airports in the new york city area 
+7	  at the charlotte airport how many different types of aircraft are there for us air 
+7	  determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon 
+7	  what type of aircraft are flying from cleveland to dallas before noon 
+7	  list type of aircraft for all flights from charlotte 
+7	  what type of plane is a d9s 
+7	  tell me about the m80 aircraft 
+7	  tell me about the m80 aircraft 
+7	  tell me about the type of aircraft called an m80 
+7	  what type of aircraft is used for the american flight leaving at 419 pm 
+8	  what is the seating capacity for aircraft l10 
+8	  what is the seating capacity for delta be1 
+8	  how many passengers can an l1011 aircraft hold 
+8	  what is the seating capacity of a dc9 
+8	  what is the seating capacity for the aircraft m80 
+8	  list seating capacities of delta flights from seattle to salt lake city 
+8	  what is the seating capacity on the aircraft 733 
+8	  what is the seating capacity of a 72s 
+8	  what is the seating capacity of the aircraft 72s 
+8	  what is the seating capacity of the aircraft m80 
+8	  what is the seating capacity of the type of aircraft m80 
+8	  what is the seating capacity of an m80 
+8	  what is the capacity of the 73s 
+8	  what is seating capacity on the aircraft 73s 
+8	  what is the seating capacity of a 757 
+8	  how many people will a 757 hold 
+8	  how many passengers can fly on a 757 
+8	  what is the seating capacity of the 757 
+8	  what is the seating capacity of the 733 
+8	  what is the seating capacity of the m80 
+8	  what is the seating capacity on the aircraft m80 
+10	  what day of the week do flights from nashville to tacoma fly on 
+10	  what days of the week do flights from san jose to nashville fly on 
+11	  how far is new york 's la guardia from downtown 
+11	  how far is toronto international from downtown 
+11	  how far is los angeles international from downtown 
+11	  how far is san francisco international from downtown 
+11	  how long does a flight from baltimore to san francisco take 
+11	  list the distance in miles from ton airport to downtown ton 
+11	  list the distance in miles from new york 's la guardia airport to downtown new york city 
+11	  list the distance in miles from toronto international airport to downtown toronto 
+11	  list the distance in miles from san francisco international airport to san francisco downtown 
+11	  list distance from airports to downtown in new york 
+12	  how many canadian airlines international flights use j31 
+12	  how many canadian airlines international flights use aircraft 320 
+12	  how many canadian airlines flights use aircraft dh8 
+13	  i need flight numbers for those flights departing on thursday before 8 am from oakland going to salt lake city 
+13	  i need the flight numbers of flights leaving from cleveland and arriving at dallas 
+13	  flight number from dallas to houston 
+13	  flight number from houston to dallas 
+13	  flight numbers on american airlines from phoenix to milwaukee 
+13	  flight numbers from chicago to seattle 
+13	  flight numbers from chicago to seattle on continental 
+13	  flight numbers from seattle to chicago on continental 
+14	  what are the departure times from detroit to westchester county 
+15	  what 's the fare for a taxi to denver 
+15	  what are the fares for ground transportation in denver 
+15	  how much is the limousine service in ton 
+15	  how much is a limousine service in la guardia 
+15	  how much is a limousine service in toronto international 
+15	  how much is limousine service in los angeles 
+15	  list limousine rates for the city of ton 
+17	  what is meal code sb 
+17	  what is fare code m 
+17	  what is fare code f 
+17	  what does hp stand for 
+17	  what does fare code bn mean 
+17	  what does ua mean 
+17	  what does q mean 
+17	  what does m mean 
+17	  what does ap 57 mean 
+17	  what does ap 20 mean 
+17	  what is phl 
+17	  what is mci 
+17	  what does not sa mean 
+17	  what is tpa 
+17	  what does fare code qo mean 
+17	  what the abbreviation us stand for 
+17	  what does fare code f mean 
+17	  what does fare code h mean 
+17	  what does fare code y mean 
+17	  what are restrictions ap 57 
+17	  what does fare code bh mean 
+17	  what does fare code bh mean 
+17	  what does fare code bh mean 
+17	  what does fare code bh mean 
+17	  what does fare code bh mean 
+17	  what does fare code f mean 
+17	  what does the restriction ap58 mean 
+17	  what does fare code h mean 
+17	  what class is fare code q 
+17	  what is a d9s 
+17	  what is a d9s 
+17	  what is 73s 
+17	  what is cvg 
+18	  list the airfare for american airlines flight 19 from jfk to lax 
+19	  show flight and prices kansas city to chicago on next wednesday arriving in chicago by 7 pm 
+19	  list all flights and their fares from indianapolis to memphis on a monday morning 
+19	  list all flights and their fares from memphis to miami on a wednesday evening 
+19	  list all flights and their fares for all flights between miami and indianapolis 
+19	  list all sunday flights from cleveland to nashville and their fares 
+19	  i need a round trip flight from san diego to washington dc and the fares 
+19	  i need a round trip from atlanta to washington dc and the fares leaving in the morning 
+19	  i need a round trip from phoenix to washington dc and the fare leaving in the morning 
+19	  i need flight and fare information for thursday departing prior to 9 am from oakland going to salt lake city 
+19	  i need flight and fare information departing from oakland to salt lake city on thursday before 8 am 
+19	  show me the nonstop flights and fares from toronto to st. petersburg 
+19	  list flights and fares from tacoma to orlando round trip leaving saturday returning next saturday 
+20	  i need flight and airline information for a flight from denver to salt lake city on monday departing after 5 pm 
+21	  does tacoma airport offer transportation from the airport to the downtown area 
+21	  what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte 
+21	  what 's the ground transportation in denver 
+21	  what 's the ground transportation in westchester county 
+21	  now show me ground transportation in houston on monday afternoon 
+21	  and now show me ground transportation that i could get in ton late night 
+21	  i 'll need to rent a car in washington dc 
+21	  i need to rent a car in milwaukee 
+21	  what ground transportation is available at denver 
+21	  what ground transportation is available from dallas fort worth airport to downtown dallas 
+21	  what ground transportation is available between phoenix airport and downtown phoenix 
+21	  what ground transportation is available between pittsburgh airport and downtown pittsburgh 
+21	  what ground transportation is available between dca and downtown washington 
+21	  what ground transportation is available between milwaukee airport and downtown milwaukee 
+21	  please show ground transportation to milwaukee 
+21	  what types of ground transportation are available in denver 
+21	  is ground transportation available in st. louis 
+21	  is there ground transportation available at the indianapolis airport 
+21	  is there ground transportation available at the denver airport 
+21	  is there ground transportation available at the salt lake city airport 
+21	  is there ground transportation available at the phoenix airport 
+21	  i need to rent a car at tampa 
+21	  ground transportation in las vegas 
+21	  ground transportation for las vegas 
+21	  show me ground transportation in phoenix 
+21	  show me ground transportation in fort worth 
+21	  what ground transportation is there in baltimore 
+21	  list ground transportation in baltimore 
+21	  is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning 
+21	  what ground transportation is available from la guardia airport into new york city 
+21	  is there ground transportation from lga into new york city 
+21	  please list the ground transportation from lga into new york city 
+21	  please list ground transportation from ewr into new york city 
+21	  tell me about the ground transportation from nashville airport 
+21	what type of groud transportation is there in los vegas
+21	  is there taxi service at the ontario airport 
+22	  i need flight numbers and airlines for flights departing from oakland to salt lake city on thursday departing before 8 am
