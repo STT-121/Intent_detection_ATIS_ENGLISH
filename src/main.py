@@ -104,7 +104,7 @@ def train(args, label_data, train_loader, valid_loader):
         cur_valid_f1 = 0.0
         valid_time = 0.0
         if args.mode == 'zero_shot':
-            cur_valid_acc, cur_valid_f1, valid_time = evaluate_zero_shot(args, valid_loader, label_data, model)
+            cur_valid_acc, cur_valid_f1, valid_time, sim = evaluate_zero_shot(args, valid_loader, label_data, model)
         elif args.mode == 'seen_class':
             cur_valid_acc, cur_valid_f1, valid_time = evaluate_seen_class(valid_loader, model)
 
@@ -122,6 +122,7 @@ def train(args, label_data, train_loader, valid_loader):
 
     print(f"Overall training time: {total_train_time}")
     print(f"Overall validation time: {total_valid_time}")
+    return model # , sim
     
     
 def evaluate_seen_class(valid_loader, model):
@@ -150,7 +151,7 @@ def evaluate_seen_class(valid_loader, model):
         acc = accuracy_score(y_list, pred_list)
         f1 = f1_score(y_list, pred_list, average='weighted')
         
-    return acc, f1, valid_time
+    return acc, f1, valid_time #,model
     
 
 def evaluate_zero_shot(args, valid_loader, label_data, model):
@@ -215,8 +216,94 @@ def evaluate_zero_shot(args, valid_loader, label_data, model):
         valid_time = time.time() - start_time
         acc = accuracy_score(y_list, pred_list)
         f1 = f1_score(y_list, pred_list, average='weighted')
+      
+    
+    return acc, f1, valid_time ,sim_ori
 
+def evaluate_zero_shot2(args, valid_loader, label_data, model,simn):
+    model.eval()
+    y_list = []
+    pred_list = []
+
+    # Label indices(tokens) tensors and their sequence lengths.
+    train_label_idxs = label_data['train_label_idxs'].to(args.device)
+    #valid_label_idxs = label_data['valid_label_idxs'].to(args.device)
+    train_label_lens = label_data['train_label_lens']
+    #valid_label_lens = label_data['valid_label_lens']
+
+    # Use the model's embedding layer to calculate each label embedding
+    embedding = model.get_embedding()
+    train_class_embeddings = embedding(train_label_idxs).cpu().detach().numpy() # (num_intents, max_len, D_W)
+  # valid_class_embeddings = embedding(valid_label_idxs).cpu().detach().numpy()
+
+    # Combine word embeddings of each label to get label embedding.
+    train_class_embeddings = tool.get_label_embedding(train_class_embeddings, train_label_lens)
+  #  valid_class_embeddings = tool.get_label_embedding(valid_class_embeddings, valid_label_lens)
+    
+    # Get unseen and seen categories similarity
+    #sim_ori = torch.from_numpy(
+    #    tool.get_sim(train_class_embeddings, valid_class_embeddings, args.sim_scale)
+    #).to(args.device)   (L, K)
+
+    # Evaluation starts.
+    with torch.no_grad():
+        # One batch.
+        start_time = time.time()
+        for batch in tqdm(valid_loader):
+            batch_x, batch_y, batch_lens, batch_one_hot_label = batch
+            batch_x, batch_y, batch_lens, batch_one_hot_label = sort_batch(batch_x, batch_y, batch_lens,
+                                                                           batch_one_hot_label)
+            batch_x = batch_x.to(args.device)
+
+            # attention: A (B, R, L), seen_logits: logits from v (B, num_properties), seen_prediction: p (B, R, K, num_properties), seen_c: c (B, R, K)
+            attentions, seen_logits, seen_prediction, seen_c = model(batch_x, batch_lens, is_train=False)
+
+            # Get vote vector using similarities.
+            sim = torch.unsqueeze(simn, 0) # (1, L, K)
+            sim = sim.repeat([seen_prediction.shape[1], 1, 1]) # (R, L, K)
+            sim = torch.unsqueeze(sim, 0) # (1, R, L, K)
+            sim = sim.repeat([seen_prediction.shape[0], 1, 1, 1]) # (B, R, L, K)
+            seen_c = seen_c.unsqueeze(-1)
+            seen_c = seen_c.repeat([1, 1, 1, args.num_props]) # (B, R, K, num_properties)
+            vote_vec = seen_prediction * seen_c # (B, R, K, num_properties)
+
+            # Compute unseen prediction vector.
+            unseen_prediction = torch.matmul(sim, vote_vec) # (B, R, L, num_properties)
+
+            # v: (B, L, num_properties), c: (B, R, L)
+            logit_shape = [unseen_prediction.shape[0], args.r, args.valid_num_classes]
+            unseen_v, _, unseen_c = model.routing(unseen_prediction, logit_shape, num_dims=4, is_train=False)
+
+            unseen_logits = torch.norm(unseen_v, dim=-1) # (B, L)
+
+            y_list += batch_y.tolist()
+            pred_list += torch.argmax(unseen_logits, 1).tolist()
+
+        valid_time = time.time() - start_time
+        acc = accuracy_score(y_list, pred_list)
+        f1 = f1_score(y_list, pred_list, average='weighted')
+      
+    
     return acc, f1, valid_time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 def sort_batch(batch_x, batch_y, batch_lens, batch_one_hot_label):
@@ -266,6 +353,49 @@ if __name__=='__main__':
     print(args)
 
     args, label_data, train_loader, valid_loader = setting(args)
-    train(args, label_data, train_loader, valid_loader)
+    mm  = train(args, label_data, train_loader, valid_loader)
+    import pickle
     
+    
+  #  filename = '/content/saved_models/bert_capsnet/zero_shot/best_model_0.8512_0.9576.ckpt'
+   # loaded_model = pickle.load(open(filename, 'rb')) # loading the model file from the storage
+    
+#------------------------------------------------------------------------------------------------------
+    print("Reading dataset...")
+    from_data_dir = f"/content/Intent_detection_ATIS_ENGLISH/test_eng"
+    to_data_dir = f"/content/Intent_detection_ATIS_ENGLISH/test_eng/processed"
+
+    if not os.path.isdir(to_data_dir):
+        os.makedirs(to_data_dir)
+    train_set, valid_set, args = data_process.read_datasets2(from_data_dir, to_data_dir, args)
+
+    args.train_num_classes = len(train_set.class_dict)
+ #   args.valid_num_classes = len(valid_set.class_dict)
+
+    # label_data is used for zero shot evalutation, so keep this separately.
+    label_data = {
+        'train_label_idxs': train_set.label_idxs,
+       ####'valid_label_idxs': valid_set.label_idxs,
+        'train_label_lens': train_set.label_lens,
+       ## 'valid_label_lens': valid_set.label_lens,
+    }
+    
+    args.hidden_size = args.word_emb_size if args.model_type == 'bert_capsnet' else 768
+    args.device = torch.device(f'cuda:{args.gpu}') if torch.cuda.is_available() else torch.device('cpu')
+
+    # Initialize dataloaders.
+    random.seed(args.seed)
+    train_sampler = RandomSampler(train_set, replacement=True, num_samples=len(train_set))
+    train_loader = DataLoader(train_set, batch_size=args.batch_size, sampler=train_sampler)
+#    valid_loader = DataLoader(valid_set, batch_size=args.batch_size)
+
+    args, label_data, train_loader # valid_loader
+#--------------------------------------------------------------------------
+  #acc, f1, valt =evaluate_zero_shot2(args, train_loader, label_data, mm,sim)
+    acc, f1, valt=evaluate_seen_class(train_loader, mm)
+    print("Testiing accuracy is :",acc)
+
+#-------------------------------------------------------------------------- 
+
+    print(mm)
     print("GOOD BYE.")
