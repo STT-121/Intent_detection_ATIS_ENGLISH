@@ -1,4 +1,4 @@
-python src/main.py \
+python /content/Intent_detection_ATIS_ENGLISH/src/main.py \
     --seed=0 \
     --batch_size=16 \
     --learning_rate=1e-4 \
@@ -7,15 +7,15 @@ python src/main.py \
     --dropout=0.0 \
     --d_a=80 \
     --num_props=10 \
-    --r=3 \
-    --num_iters=1 \
-    --alpha=1e-4 \
+    --r=5 \
+    --num_iters=3 \
+    --alpha=1e-3 \
     --sim_scale=1 \
     --num_layers=1 \
     --ckpt_dir="saved_models" \
-    --data_dir="data" \
+    --data_dir="/content/Intent_detection_ATIS_ENGLISH/data" \
     --raw_dir="raw" \
-    --train_frac=0.9 \
+    --train_frac=0.8\
     --train_prefix="train" \
     --valid_prefix="valid" \
     --model_type="bert_capsnet" \
